@@ -8,7 +8,7 @@ Best Practices
 
 Ansible documentation on best practices for directory layout, playbooks, roles, inventories, and variables.
 
-[http://docs.ansible.com/ansible/playbooks\_best\_practices.html]()
+[http://docs.ansible.com/ansible/playbooks\_best\_practices.html](http://docs.ansible.com/ansible/playbooks_best_practices.html)
 
 Layout
 ------
@@ -37,6 +37,6 @@ Author
 
 Peter Schaadt
 
-[https://github.com/peterfschaadt]()
+[https://github.com/peterfschaadt](https://github.com/peterfschaadt)
 
-[http://peterschaadt.com]()
+[http://peterschaadt.com](http://peterschaadt.com)
